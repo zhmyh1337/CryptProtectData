@@ -1,0 +1,2 @@
+CryptProtectData en
+pause
